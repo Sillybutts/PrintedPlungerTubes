@@ -3,11 +3,33 @@ A set of fully printable plunger tubes!
 
 ## Description
 
-The plunger tube is a fully printed design that fits in standard TCs, Caliburns, and Lynxes without modification to the blaster. Just lengthen the plunger tube in CAD to fit the length of your blaster. Use more lubrication in the plunger tube than you normally would.
+These plunger tubes are a fully printed design that fits in standard TCs, Caliburns, Lynxes, etc, **without modification to the blaster**!
 
+So far, there are plunger tubes in these sizes:
+- 1.5" OD plunger tubes:
+- - 4" (Esper, SillyPistol, etc)
+- - 5.18" (Skewer, SkewBow, etc)
+- - 5.72" (Talon Claw, Thumper, etc)
+- - 7.3125" (Caliburn, MagBow, etc)
+- - 8" (Lynx)
+
+If you know of a blaster that uses a 1.5"OD plunger tube, and it isn't already on this list, let me know! I'll make a PT for it! Contact info in the Misc section of this listing.
+
+## Assembly
+
+Assembly: https://www.youtube.com/watch?v=QpMW5P51Vow
+
+Make sure the smoothest side of the PT lining is facing the INSIDE of the PT. 
+
+Printing on a smooth surface, like bare glass or PEI, gives you a smoother inside surface and better performance. 
+
+When using these plunger tubes, use more lubrication than you normally would.
+
+## Printing
 
 All STLs were exported in print orientation. The F3D and STEP source files are also provided.
 
+Print at 100% infill, 5 walls.
 
 ## Misc.
 
